@@ -1,0 +1,637 @@
+@media screen and (max-width: 1182px) {
+	.menu li {
+    	margin-right: 2.5%;
+	}
+}
+
+@media screen and (max-width: 1160px) {
+
+	.menu li{
+		margin-right: 1.5%;
+		font-size: 16px;
+		font-weight: 600; 
+
+	}
+
+	.contact__telephone{
+		font-size: 15px;
+	}
+
+	.schedule {
+    	color: #fff;
+    	margin-left: 16%;
+	}
+}
+
+
+@media screen and (max-width: 1085px) {
+	.schedule{
+		margin-left: 5%;
+	}
+}
+
+@media screen and (max-width: 1000px) {
+	.contact__telephone{
+		font-size: 14px;
+	}
+}
+
+
+/*---ПЛАНШЕТЫ 728-960 ---*/
+
+@media screen and (min-width: 992px) {
+	.open {
+		display: none;
+
+		}
+	.call-block-two{
+		display: none;
+	}
+}
+
+
+
+@media screen and (max-width: 992px) {
+	.open {
+		display: none;
+
+		}
+
+	    .conect-mi{
+    	font-size: 22px;
+    }
+
+    .menu-icon{
+    	display: block;
+    }
+
+    	.button {
+    	margin-top: 40px;
+    	margin-bottom: 130px;	
+		}
+	
+	.description {
+    	margin-bottom: 34px;
+		}
+}
+
+
+
+@media screen and (max-width: 991px) {
+	.menu {
+		display: none;
+
+		}
+
+	.call-block-one{
+		display: none;
+	} 
+
+
+	
+}
+
+
+/*---ПЛАНШЕТЫ 728-960 ---*/
+@media screen and (max-width: 991px) {
+	.open {
+		display: block;
+
+		}
+
+	.questions__dei {
+     	margin-bottom: 50px;
+
+     	}
+
+    .call{
+    	margin-top: 0px;
+    }
+
+    .prava{
+		margin-top: 50px;
+	}
+
+
+}
+
+
+
+@media screen and (max-width: 992px) {
+	    .conect-mi{
+    	font-size: 22px;
+    }
+
+    .menu-icon{
+    	display: block;
+    	position: absolute;
+    	right: 0px;
+    	left: 0px;
+    	margin: 0px auto;
+    	width: 290px;
+    }
+
+    .btn-footer-email {
+    margin-top: 40px;
+}
+
+    .footer{
+		padding-top: 10%;
+	}
+
+	.footer__logo {
+    float: none;
+    text-align: center;
+	}
+
+	.questions__dei__list {
+		margin-bottom: 20px;
+		text-align: center;
+	}
+
+
+	.inform__text {
+    text-align: center;
+	}
+
+	.batton-top{
+		display: none;
+	}
+
+
+}
+
+
+@media screen and (max-width: 768px) {
+	.contact__telephone-telegremm, .contact__telephone-whatsapp{
+		display: none;
+	}
+
+	.schedule {
+    	color: #fff;
+    	margin-left: 0%;
+	}
+
+	.sl{
+		display: none !important;
+	}
+
+	.sl3{
+		display: block;
+	}
+
+
+
+}
+
+@media screen and (min-width: 768px) {
+
+	.sl3{
+		display: none !important;
+	}
+
+
+
+}
+
+
+
+
+/*---МОБИЛЬНЫЕ 0-728 ---*/
+@media screen and (max-width: 728px) {
+	.container {
+		width: 90%;
+		}
+
+	.schedule {
+		display: none;
+		}
+
+	.contact__telephone{
+		display: none;
+	}
+
+}
+
+
+
+
+@media screen and (max-width: 639px) {
+	.contact__telephone {
+    	font-size: 13px;
+	}
+}
+
+
+@media screen and (max-width: 567px) {
+	.schedule {
+	    color: #fff;
+	    margin-left: 0%;
+	    text-align: right;
+	    margin-right: 30px;
+	}
+}
+
+
+
+
+
+@media screen and (max-width: 385px) {
+	.footer{
+		padding-top: 10%;
+	}
+
+	.footer__logo {
+    float: none;
+    text-align: center;
+	}
+
+	.questions__dei__list {
+		margin-bottom: 20px;
+		text-align: center;
+	}
+
+
+	.inform__text {
+    text-align: center;
+	}
+
+	.batton-top{
+		display: none;
+	}
+}
+
+@media screen and (min-width: 451px) {
+	.mobail{
+		display: none;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	.PC{
+		display: none;
+	}
+
+	.oppenned span:nth-child(2) {
+    top: -30px;
+    right: -345px;
+	}
+
+	.open {
+	    display: block;
+	    display: block;
+	    position: absolute;
+	    right: 245px;
+	    top: 151px;
+	}
+
+	.oppenned li {
+	    margin-left:s 160px;
+	    text-align: left;
+	}
+
+	.sub-menu li{
+		float: left;
+	}
+
+	.sub-menu li:first-child {
+    margin-top: 60px;
+	}
+
+	.oppenned .sub-menu {
+    	width: 147px;
+    	height: 286px;
+    	}	
+
+    .oppenned span:nth-child(2) {
+   
+    	width: 147px;
+    	height: 286px;
+    	}
+
+    .oppenned span:nth-child(2) {
+    	top: -30px;
+    	right: -88px;
+		}
+
+
+		.btn-phone{
+			display: block;
+			top: 154px;
+		}
+
+
+		.mobail-first-offer h1{
+
+
+   			 color: #fff;
+   			 font-size: 22px;
+    		font-weight: 700;
+   			 padding-top: 206px;
+			 text-transform: uppercase;
+    		line-height: 1.3;
+   			 margin-left: 29px;
+		}
+
+		.mobail-first-offer span{
+    		color: #ca6710;
+			}
+		
+		.mobail-first-discription{
+			margin-top: 10px;
+			margin-bottom: 30px;
+   			 color: #fff;
+    		font-size: 12px;
+    		line-height: 1.2;
+    		margin-left: 29px;
+		}
+
+		.mobail-first-discription span{
+			color: #ca6710;
+		}
+		
+
+         .services__header{
+         	font-size: 20px;
+         	margin-left: 31px;
+         }
+
+         .services__text{
+         	width: 72%;
+         }
+
+         .services__subtitle{
+         	margin-top: 3%;
+         }
+			
+		.about-us {
+    	padding: 17% 0 17%;
+		}
+
+        .about-us__header{
+        	font-size: 20px;
+        	text-transform: none;
+        }
+
+        .stock{
+    		padding: 17% 0 17%;
+    		background: url('../img/mobil-bg-two.png') center center no-repeat;
+    		background-size: cover;
+    		margin-top: 16px;
+    	}
+
+    	.stock__header{
+    		font-size: 20px;
+        	text-transform: none;
+    	}
+
+
+    	.stock-list {
+    		margin-top: 18px;
+		}
+
+    	.stock-list__item {
+    		margin-bottom: 20px;
+    		font-size: 14px;
+    		line-height: 1.2;
+    		margin-left: -11px;
+		}
+
+		.number{
+			padding: 17% 0 17%;
+		}
+
+		.number__header{
+			font-size: 20px;
+        	text-transform: none;
+		}
+
+		.number__text{
+			font-size: 9px;
+		}
+
+		.num{
+			font-size: 25px;
+		} 
+
+		.col{
+			padding: 0px;
+		}
+
+		.confidence {
+    		background: url('../img/confidence.png') top center no-repeat;
+  
+		}
+
+		.coffee {
+	    	background-position-y: -10px;
+		}
+
+		.inform{
+			padding: 17% 0 17%;
+		}
+
+		.inform__header {
+   			 font-size: 20px;
+    		text-transform: none;
+    		margin-bottom: 17px;
+		}
+
+
+		.questions{
+			padding: 17% 0%;
+		}
+
+		.questions__header{
+			font-size: 20px;
+			margin-bottom: 19px;
+		}
+
+		.questions__dei_subtitle {
+			margin: 18px auto 12px;
+    		text-align: center;
+		}
+
+		.questions__dei_subtitle {
+    		font-size: 20px;
+    		margin: 18px auto 12px;
+    		
+    	}
+
+    	.questions__dei__list {
+			margin-bottom: 0px;
+   			text-align: left;
+    		font-weight: 900;
+    		font-size: 12px;
+
+		}
+
+		.questions__dei__list a:hover{
+			margin-bottom: 0px;
+   			text-align: left;
+    		font-weight: 600;
+    		font-size: 12px;
+    		margin-left: 0px;
+
+		}
+
+		.questions__dei__list a {
+    		font-size: 12px;
+    	}
+
+    	.mobile-order,
+		.mobile-game,
+		.mobile-Prepayment,
+		.mobile-payment,
+		.mobile-orderwarranty,
+		.mobile-delivery,
+		.mobile-town,
+		.mobile-delivery-suburbs,
+		.mobile-Moscow,
+		.mobile-assembly,
+		.mobile-pc,
+		.mobile-accessories,
+		.mobile-parts,
+		.mobile-time{
+			font-size: 12px;
+			margin: 13px 10px 26px;
+			color: #fff;
+			font-weight: 600;
+		}
+		
+		.oreng-border{
+			width: 80%;
+			height: 1px;
+			background-color: #b3691a; 
+			margin: 13px auto 3px;
+		}
+
+		.call {
+	    	margin-top: 0px;
+	    	font-size: 18px;
+		}
+
+		.conect-mi{
+			font-size: 18px;
+		}
+
+		.questions-button a {
+    		margin: 0px 19px;
+    	}
+		
+		.sl-img img:hover{
+    	width: 70%;
+		}
+
+		.portfolio__header{
+			font-size: 20px;
+		}
+
+
+		.form{
+			padding: 17% 0 17%;
+			background-position-x: -660px;
+		}
+
+		.form__header{
+			font-size: 20px;
+		}
+
+		.form-text {
+    		font-size: 15px;
+		}
+
+		.form-name {
+    		width: 100%;
+    		height: 56px;
+			border-radius: 22px;
+    		font-size: 12px;
+			}
+
+		.form-batton {
+    		font-size: 15px;
+   			width: 100%;
+   			height: 47px;
+   			border-radius: 27px;
+			}
+
+		.form-batton:hover {
+    		font-size: 15px;
+   			width: 100%;
+   			height: 47px;
+   			border-radius: 27px;
+   			-webkit-transition: all ease 0.75s;
+   			-o-transition: all ease 0.75s;
+   			transition: all ease 0.75s;
+   			background-color: #00e0e0;
+			}
+
+		.footer {
+   			padding: 17% 0 17%;
+		}
+
+		.footer__logo a img{
+			margin-bottom: 12px;
+		}
+
+		.footer__logo_text{
+			line-height: 1.6;
+		}
+
+		.btn-footer-email {
+   			 margin-top: -9px;
+   			 text-decoration:underline ;
+		}
+
+		.menu-icon {
+    		bottom: -160px;
+		}
+
+		.menu__items_ancor img{
+			width: 75%;
+		}
+
+		.open{
+    		position: -webkit-sticky;
+    		position: sticky;
+    		top: 40px;
+    		left: 22px;
+    		margin-top: -75px;
+		}
+
+		.open span {
+   			background-color: #01dde0;
+		}
+
+		.sl-img img:hover{
+    		width:170px;
+    		height: 170px; 
+    		margin: 5% auto;
+    	}
+
+    	 .prava{
+			margin-top: 80px;
+		}
+
+    }
+
+
+
+
+
+
+@media screen and (max-width: 326px) {
+
+	.mobail-logotype img {
+    	width: 104px;
+   		height: 54px;
+	}
+
+	.number__text {
+    	font-size: 8px;
+	}
+}
+    
+
+
+
